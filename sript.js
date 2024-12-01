@@ -45,7 +45,7 @@ if(!fnameField){
         text: "You successfuly Submit!!",
         icon: "success"
       });
-      window.location.replace("../users/user.html");
+      window.location.replace("./user.html");
     }
     });
 
